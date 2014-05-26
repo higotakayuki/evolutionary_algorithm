@@ -1,0 +1,5 @@
+*.class
+*.dat
+_classpath
+_project
+META-INF/*
